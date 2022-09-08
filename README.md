@@ -40,6 +40,8 @@ Countdown from 10 seconds to 0 (liftoff). Print that countdown to the serial mon
 
 ### Evidence
 
+![Countdown](images/Launch1.webm)
+
 ### Code
 [LaunchPadOneCode](https://github.com/cneal05/Engineering_4_Notebook/blob/main/Raspberry_Pi/LaunchPadOne_Code.py)
 
