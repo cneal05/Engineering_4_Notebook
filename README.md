@@ -4,6 +4,7 @@
 
 ## Table of Contents
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
+* [Launch_Pad_1](#launch_pad_1)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
@@ -28,6 +29,23 @@ Give me a link to your code. [Something like this](https://github.com/millerm22/
 ### Reflection
 
 What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+
+&nbsp;
+
+## Launch_Pad_Part_1
+
+### Assignment Description
+
+Countdown from 10 seconds to 0 (liftoff). Print that countdown to the serial monitor.
+
+### Evidence
+
+### Code
+[LaunchPadOneCode](https://github.com/cneal05/Engineering_4_Notebook/blob/main/Raspberry_Pi/LaunchPadOne_Code.py)
+
+### Reflection
+
+To do this assignment I had to remember how to at first code again, but also how to code in circuit python instead of coding like I am coding Arduino, or java.
 
 &nbsp;
 
