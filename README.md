@@ -43,7 +43,7 @@ Countdown from 10 seconds to 0 (liftoff). Print that countdown to the serial mon
 ![Countdown](images/Launch1Gif.gif)
 
 ### Code
-[LaunchPadOneCode](raspberry.pi/LaunchCODE1)
+[LaunchPadOneCode](raspberry-pi/LaunchCODE1)
 
 ### Reflection
 
