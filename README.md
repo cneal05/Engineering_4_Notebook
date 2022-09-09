@@ -41,7 +41,7 @@ Blink a red light each second of the countdown, and turn on a green LED to signi
 
 ### Wiring
 
-
+![Wiring](images/LaunchPad2Wiring.png)
 
 ### Code
 [LaunchPadOneCode](raspberry-pi/Launch_Pad_Part_2.py)
