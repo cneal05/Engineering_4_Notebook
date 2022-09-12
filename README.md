@@ -44,11 +44,35 @@ Blink a red light each second of the countdown, and turn on a green LED to signi
 ![Wiring](images/LaunchPad2Wiring.png)
 
 ### Code
-[LaunchPadOneCode](raspberry-pi/Launch_Pad_Part_2.py)
+[LaunchPadTwoCode](raspberry-pi/Launch_Pad_Part_2.py)
 
 ### Reflection
 
 This assignment was quite simple as I just combined the two assignments that I already had to do this year.
+
+&nbsp;
+
+## Launch_Pad_Part_3
+
+### Assignment Description
+
+Include a physical button that starts the countdown. 
+
+### Evidence 
+
+Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+
+### Wiring
+
+![Wiring](images/LaunchPad3Wiring.png)
+
+### Code
+
+[LaunchPadThreeCode](raspberry-pi/Launch_Pad_Part_3.py)
+
+### Reflection
+
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
 
 &nbsp;
 
