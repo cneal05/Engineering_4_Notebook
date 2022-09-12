@@ -3,9 +3,52 @@
 &nbsp;
 
 ## Table of Contents
-* [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
 * [Launch_Pad_Part_1](#Launch_Pad_Part_1)
+* [Launch_Pad_Part_2](#Launch_Pad_Part_2)
+* [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
+
+&nbsp;
+
+## Launch_Pad_Part_1
+
+### Assignment Description
+
+Countdown from 10 seconds to 0 (liftoff). Print that countdown to the serial monitor.
+
+### Evidence
+
+![Countdown](images/Launch1Gif.gif)
+
+### Code
+[LaunchPadOneCode](raspberry-pi/Launch1CODE)
+
+### Reflection
+
+To do this assignment I had to remember how to at first code again, but also how to code in circuit python instead of coding like I am coding Arduino, or java.
+
+&nbsp;
+
+## Launch_Pad_Part_2
+
+### Assignment Description
+
+Blink a red light each second of the countdown, and turn on a green LED to signify liftoff.
+
+### Evidence
+
+![Countdown](images/LaunchPad2gif.gif)
+
+### Wiring
+
+![Wiring](images/LaunchPad2Wiring.png)
+
+### Code
+[LaunchPadOneCode](raspberry-pi/Launch_Pad_Part_2.py)
+
+### Reflection
+
+This assignment was quite simple as I just combined the two assignments that I already had to do this year.
 
 &nbsp;
 
@@ -29,25 +72,6 @@ Give me a link to your code. [Something like this](https://github.com/millerm22/
 ### Reflection
 
 What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
-
-&nbsp;
-
-## Launch_Pad_Part_1
-
-### Assignment Description
-
-Countdown from 10 seconds to 0 (liftoff). Print that countdown to the serial monitor.
-
-### Evidence
-
-![Countdown](images/Launch1Gif.gif)
-
-### Code
-[LaunchPadOneCode](raspberry-pi/Launch1CODE)
-
-### Reflection
-
-To do this assignment I had to remember how to at first code again, but also how to code in circuit python instead of coding like I am coding Arduino, or java.
 
 &nbsp;
 
