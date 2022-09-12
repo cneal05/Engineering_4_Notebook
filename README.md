@@ -37,7 +37,7 @@ Blink a red light each second of the countdown, and turn on a green LED to signi
 
 ### Evidence
 
-![Countdown](images/Launch2Gif.gif)
+![Countdown](images/LaunchPad2gif.gif)
 
 ### Wiring
 
