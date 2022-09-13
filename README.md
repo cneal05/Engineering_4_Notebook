@@ -5,7 +5,7 @@
 ## Table of Contents
 * [Launch_Pad_Part_1](#Launch_Pad_Part_1)
 * [Launch_Pad_Part_2](#Launch_Pad_Part_2)
-* [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
+* [Launch_Pad_Part_3](#Launch_Pad_Part_3)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
@@ -44,11 +44,35 @@ Blink a red light each second of the countdown, and turn on a green LED to signi
 ![Wiring](images/LaunchPad2Wiring.png)
 
 ### Code
-[LaunchPadOneCode](raspberry-pi/Launch_Pad_Part_2.py)
+[LaunchPadTwoCode](raspberry-pi/Launch_Pad_Part_2.py)
 
 ### Reflection
 
 This assignment was quite simple as I just combined the two assignments that I already had to do this year.
+
+&nbsp;
+
+## Launch_Pad_Part_3
+
+### Assignment Description
+
+Include a physical button that starts the countdown. 
+
+### Evidence 
+
+![ButtonPress](images/LaunchPad3gif.gif)
+
+### Wiring
+
+![Wiring](images/LaunchPad3Wiring.png)
+
+### Code
+
+[LaunchPadThreeCode](raspberry-pi/Launch_Pad_Part_3.py)
+
+### Reflection
+
+In this assignment I fully realized that I should probably have a "while True:" before all of my code that runs actions. without that it will go through my code once and be done, where if I am using a if statment it wont give me the chance to input the value that I want, like pressing a button, before it ends the code.
 
 &nbsp;
 
