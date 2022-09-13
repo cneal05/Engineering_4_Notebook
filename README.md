@@ -6,6 +6,7 @@
 * [Launch_Pad_Part_1](#Launch_Pad_Part_1)
 * [Launch_Pad_Part_2](#Launch_Pad_Part_2)
 * [Launch_Pad_Part_3](#Launch_Pad_Part_3)
+* [Launch_Pad_Part_4](#Launch_Pad_Part_4)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
@@ -75,6 +76,30 @@ Include a physical button that starts the countdown.
 In this assignment I fully realized that I should probably have a "while True:" before all of my code that runs actions. without that it will go through my code once and be done, where if I am using a if statment it wont give me the chance to input the value that I want, like pressing a button, before it ends the code.
 
 &nbsp;
+
+## Launch_Pad_Part_4
+
+### Assignment Description
+
+Actuate a 180 degree servo on liftoff to simulate the launch tower disconnecting.
+
+### Evidence
+
+![Servo](images/LaunchPad4gif.gif)
+
+### Wiring
+
+![Wiring](images/LaunchPad4Wiring.png)
+
+### Code
+[LaunchPadFourCode](raspberry-pi/Launch_Pad_Part_4.py)
+
+### Reflection
+
+This assignment was really just me remembering all of the setup that I need for a servo to work and then after that it was very simple.
+
+&nbsp;
+
 
 ## Raspberry_Pi_Assignment_Template
 
