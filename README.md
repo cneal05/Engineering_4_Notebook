@@ -92,7 +92,7 @@ Actuate a 180 degree servo on liftoff to simulate the launch tower disconnecting
 ![Wiring](images/LaunchPad4Wiring.png)
 
 ### Code
-[LaunchPad4woCode](raspberry-pi/Launch_Pad_Part_4.py)
+[LaunchPadFourCode](raspberry-pi/Launch_Pad_Part_4.py)
 
 ### Reflection
 
