@@ -121,7 +121,7 @@ The module must have an accelerometer that continuously reports x, y, and z acce
 [CrashAvoidanceOneCode](raspberry-pi/Crash_Avoidance_Part_1.py)
 
 ### Reflection
-
+Learning how to use and make the Accelerometer work was a bit of a hiccup but now after understanding how to set it up, the assignment was quite simple.
 
 &nbsp;
 
