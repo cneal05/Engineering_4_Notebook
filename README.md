@@ -7,6 +7,11 @@
 * [Launch_Pad_Part_2](#Launch_Pad_Part_2)
 * [Launch_Pad_Part_3](#Launch_Pad_Part_3)
 * [Launch_Pad_Part_4](#Launch_Pad_Part_4)
+* [Crash_Avoidance_Part_1](#Crash_Avoidance_Part_1)
+* [Crash_Avoidance_Part_2](#Crash_Avoidance_Part_2)
+* [Crash_Avoidance_Part_3](#Crash_Avoidance_Part_3)
+* [Crash_Avoidance_Part_4](#Crash_Avoidance_Part_4)
+* [Raspberry_Pi_Assignment_Template](#Raspberry_Pi_Assignment_Template)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
@@ -100,27 +105,42 @@ This assignment was really just me remembering all of the setup that I need for 
 
 &nbsp;
 
+## Crash_Avoidance_Part_1
+
+### Assignment Description
+
+The module must have an accelerometer that continuously reports x, y, and z acceleration values on the serial monitor.
+
+### Evidence 
+![Name](images/CrashAvoidancePart1gif.gif)
+
+### Wiring
+![Wiring](images/CrashAvoidancePart1Wiring.png)
+
+### Code
+[CrashAvoidanceOneCode](raspberry-pi/Crash_Avoidance_Part_1.py)
+
+### Reflection
+Learning how to use and make the Accelerometer work was a bit of a hiccup but now after understanding how to set it up, the assignment was quite simple.
+
+&nbsp;
 
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
 
 ### Evidence 
-
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+![Name](images/imageFileName.gif)
 
 ### Wiring
-
-This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
+![Wiring](images/Wiring.png)
 
 ### Code
-Give me a link to your code. [Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
+[Name](raspberry-pi/CodeName.py)
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
 
 &nbsp;
 
