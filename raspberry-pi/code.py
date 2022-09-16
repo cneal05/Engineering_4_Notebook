@@ -17,5 +17,6 @@ while True:
     if mpu.acceleration[0] > 9 or  mpu.acceleration[0] < -9 or mpu.acceleration[1] > 9 or  mpu.acceleration[1] < -9: 
             print("SPIN")
             led.value = True
+            time.sleep(1)
             led.value = False
     time.sleep(1)
