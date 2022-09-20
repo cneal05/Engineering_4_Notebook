@@ -112,7 +112,7 @@ This assignment was really just me remembering all of the setup that I need for 
 The module must have an accelerometer that continuously reports x, y, and z acceleration values on the serial monitor.
 
 ### Evidence 
-![Name](images/CrashAvoidancePart1gif.gif)
+![CrashPt1](images/CrashAvoidancePart1gif.gif)
 
 ### Wiring
 ![Wiring](images/CrashAvoidancePart1Wiring.png)
@@ -122,6 +122,26 @@ The module must have an accelerometer that continuously reports x, y, and z acce
 
 ### Reflection
 Learning how to use and make the Accelerometer work was a bit of a hiccup but now after understanding how to set it up, the assignment was quite simple.
+
+&nbsp;
+
+## Crash_Avoidance_Part_2
+
+### Assignment Description
+The module must have an LED that turns on if the helicopter is tilted to 90 degrees. 
+The module must be powered by a mobile power source.
+
+### Evidence 
+![CrashPt2](images/CrashAvoidancePart2gif.gif)
+
+### Wiring
+![Wiring](images/CrashAvoidancePart2Wiring.png)
+
+### Code
+[CrashAvoidanceTwoCode](raspberry-pi/Crash_Avoidance_Part_2.py)
+
+### Reflection
+Learning how to use the PowerBoost 500C was actually pretty simple to understand, and the Tilt sensor part of this assignment was just using a if statement on the assignment before making it pretty simple to complete.
 
 &nbsp;
 
