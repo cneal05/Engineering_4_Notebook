@@ -1,5 +1,9 @@
 # type: ignore
 import adafruit_mpu6050
+from adafruit_display_text import label
+import adafruit_displayio_ssd1306
+import terminalio
+import displayio
 import busio
 import board
 import time
