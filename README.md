@@ -154,7 +154,7 @@ The module must have an onboard screen that prints x, y, and z angular velocity 
 ![Name](images/CrashAvoidancePart3gif.gif)
 
 ### Wiring
-![Wiring](images/CrashAvoidancePart3Wiring.png)
+![Wiring](images/CrashAvoidancePart3Wiring.jpg)
 
 ### Code
 [CrashAvoidanceThreeCode](raspberry-pi/Crash_Avoidance_Part_3.py)
