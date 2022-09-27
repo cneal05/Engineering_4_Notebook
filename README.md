@@ -145,6 +145,25 @@ Learning how to use the PowerBoost 500C was actually pretty simple to understand
 
 &nbsp;
 
+## Crash_Avoidance_Part_3
+
+### Assignment Description
+The module must have an onboard screen that prints x, y, and z angular velocity values (rad/s) rounded to 3 decimal places.
+
+### Evidence 
+![Name](images/CrashAvoidancePart3gif.gif)
+
+### Wiring
+![Wiring](images/CrashAvoidancePart3Wiring.jpg)
+
+### Code
+[CrashAvoidanceThreeCode](raspberry-pi/Crash_Avoidance_Part_3.py)
+
+### Reflection
+Learning how to use the OLED screen and how to use to two i2cs at once was a bit tough, but after understanding the code that is needed, it was realy quite simple.
+
+&nbsp;
+
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
