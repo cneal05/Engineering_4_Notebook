@@ -1,3 +1,11 @@
+#type: ignore
 print("Enter the first coordinate in format x,y:")
-answer1= input()
-print("you entered %s" % answer1 % "%s as your first coordinate")
+answer1 = input()
+print("Incorrect Format, please type coordinates again.")
+a1List = answer1.split(",")
+print("Enter the second coordinate in format x,y:")
+answer2 = input()
+a2List = answer2.split(",")
+print("Enter the third coordinate in format x,y:")
+answer3 = input()
+a3List = answer3.split(",")
