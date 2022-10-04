@@ -164,6 +164,22 @@ Learning how to use the OLED screen and how to use to two i2cs at once was a bit
 
 &nbsp;
 
+## Landing_Area_Part_1
+
+### Assignment Description
+The code must ask for the user to input a set of three coordinates in (x,y) format, the triangle's area must be determined using a function. If the user inputs coordinates incorrectly (letters or improper format) the code should return to the input stage, it should not throw an error or exit the script The triangle area must be printed to the screen in this format: “The area of the triangle with vertices (x,y), (x,y), (x,y) is {area} square km. The code must return to the input stage after printing the area, and wait for user input.
+
+### Evidence 
+![Name](images/Landing_Area_Part_1.gif)
+
+### Code
+[Name](raspberry-pi/Landing_Area_Part_1.py)
+
+### Reflection
+This assginment was the most code heavy assignment that we have done, but after understanding the floats, how to define a functions, and the try and except function this assignment was very simple.
+
+&nbsp;
+
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
@@ -182,7 +198,6 @@ Learning how to use the OLED screen and how to use to two i2cs at once was a bit
 
 
 &nbsp;
-
 ## Onshape_Assignment_Template
 
 ### Assignment Description
