@@ -6,12 +6,12 @@ def calculate(x1,y1,x2,y2,x3,y3):
     areaF = (area1 + area2 + area3)/2
     return areaF
 
-while True:
+hile True:
     print("Enter the first coordinate in format x,y:")
     answer1 = input()
     a1List = answer1.split(",")
     print("Enter the second coordinate in format x,y:")
-    nswer2 = input()
+    answer2 = input()
     a2List = answer2.split(",")
     print("Enter the third coordinate in format x,y:")
     answer3 = input()
