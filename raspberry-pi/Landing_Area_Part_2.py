@@ -8,6 +8,7 @@ import terminalio
 import displayio
 import board
 import busio
+displayio.release_displays()
 
 sda_pin = board.GP6
 scl_pin = board.GP7
@@ -22,15 +23,6 @@ def calculate(x1,y1,x2,y2,x3,y3):
     areaF = (area1 + area2 + area3)/2
     return areaF
 
-splash = displayio.Group()
-linex1 = 64
-liney1 = 16
-linex2 = 32
-liney2 = 64
-hline = Line(linex1,liney1,linex2,liney2, color=0xFFFF00)
-splash.append(hline)
-display.show(splash)
-   
 while True:
     print("Enter the first coordinate in format x,y:")
     answer1 = input()
@@ -53,13 +45,33 @@ while True:
         print(f"The area of the triangle with vertices ({x1},{y1}), ({x2},{y2}), ({x3},{y3}) is {areafinal} square km")
     except:
         print("wrong format, please enter coordinates in the correct formatting")
-    
-    x1 = int(a1List[0])
-    x2 = int(a2List[0])
-    x3 = int(a3List[0])
-    y1 = int(a1List[1])
-    y2 = int(a2List[1])
-    y3 = int(a3List[1])
+       
+    splash = displayio.Group()
+    linex1 = 64
+    liney1 = 0
+    linex2 = 64
+    liney2 = 64
+    hline = Line(linex1,liney1,linex2,liney2, color=0xFFFF00)
+    splash.append(hline)
+    display.show(splash)
+   
+    linex1 = 0
+    liney1 = 32
+    linex2 = 128
+    liney2 = 32
+    hline = Line(linex1,liney1,linex2,liney2, color=0xFFFF00)
+    splash.append(hline)
+    display.show(splash)
+
+    x1 = int(a1List[0]) + 64
+    x2 = int(a2List[0]) + 64
+    x3 = int(a3List[0]) + 64
+    #print(a1List[1])
+    #print(a2List[1])
+    #print(a3List[1])
+    y1 = -1*int(a1List[1]) + 32
+    y2 = -1*int(a2List[1]) + 32
+    y3 = -1*int(a3List[1]) + 32
     triangle = Triangle(x1, y1, x2, y2, x3, y3, outline=0xFFFF00)
     splash.append(triangle)
     display.show(splash)
