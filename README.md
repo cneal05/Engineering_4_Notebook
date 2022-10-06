@@ -181,7 +181,7 @@ This assginment was the most code heavy assignment that we have done, but after 
 
 &nbsp;
 
-## Raspberry_Pi_Assignment_Template
+## Landing_Area_Part_2
 
 ### Assignment Description
 The code must ask for the user to input a set of three coordinates in (x,y) format, the triangle's area must be determined using a function. If the user inputs coordinates incorrectly (letters or improper format) the code should return to the input stage, it should not throw an error or exit the script The triangle area must be printed to the screen in this format: “The area of the triangle with vertices (x,y), (x,y), (x,y) is {area} square km. The code must return to the input stage after printing the area, and wait for user input. An onboard OLED screen must plot each triangle on a graph relative to the base location.
