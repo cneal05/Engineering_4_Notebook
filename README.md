@@ -190,7 +190,7 @@ Landing Area Part 1 with the added onboard OLED screen must plot each triangle o
 ![Name](images/Landing_Area_Part_1gif.gif)
 
 ### Wiring
-![Wiring](images/Landing_Area_Part_2.png)
+![Wiring](images/LandingAreaPart2.png)
 
 ### Code
 [Landing_Area_Part_2](raspberry-pi/Landing_Area_Part_2.py)
