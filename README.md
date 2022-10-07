@@ -187,7 +187,7 @@ This assginment was the most code heavy assignment that we have done, but after 
 Landing Area Part 1 with the added onboard OLED screen must plot each triangle on a graph relative to the base location.
 
 ### Evidence 
-![Name](images/Landing_Area_Part_1gif.gif)
+![GIF](images/Landing_Area_Part_2.gif.gif)
 
 ### Wiring
 ![Wiring](images/LandingAreaPart2Wiring.png)
@@ -196,7 +196,7 @@ Landing Area Part 1 with the added onboard OLED screen must plot each triangle o
 [Landing_Area_Part_2](raspberry-pi/Landing_Area_Part_2.py)
 
 ### Reflection
-
+Understanding the math behind using the OLED screens and the function to graph the triangles or lines for the x and y lines.
 
 &nbsp;
 
