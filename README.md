@@ -10,6 +10,7 @@
 * [Crash_Avoidance_Part_1](#Crash_Avoidance_Part_1)
 * [Crash_Avoidance_Part_2](#Crash_Avoidance_Part_2)
 * [Crash_Avoidance_Part_3](#Crash_Avoidance_Part_3)
+* [Crash_Avoidance_Part_4](#Crash_Avoidance_Part_4)
 * [Landing_Area_Part_1](#Landing_Area_Part_1)
 * [Landing_Area_Part_2](#Landing_Area_Part_2)
 * [Raspberry_Pi_Assignment_Template](#Raspberry_Pi_Assignment_Template)
