@@ -165,6 +165,25 @@ Learning how to use the OLED screen and how to use to two i2cs at once was a bit
 
 &nbsp;
 
+## Crash_Avoidance_Part_4
+
+### Assignment Description
+the module should NOT show a warning light if the device is more than 3 meters above its starting point.
+
+### Evidence 
+![Name](images/CrashAvoidancePart4gif.gif)
+
+### Wiring
+![Wiring](images/CrashAvoidancePart4Wiring.jpg)
+
+### Code
+[CrashAvoidanceFourCode](raspberry-pi/Crash_Avoidance_Part_4.py)
+
+### Reflection
+Learning how to use the altimeter, something that we have not yet used yet in this class was somewhat of a difficulty.
+
+&nbsp;
+
 ## Landing_Area_Part_1
 
 ### Assignment Description
