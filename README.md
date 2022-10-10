@@ -175,7 +175,7 @@ the module should NOT show a warning light if the device is more than 3 meters a
 ![Name](images/CrashAvoidancePart4gif.gif)
 
 ### Wiring
-![Wiring](images/CrashAvoidancePart4Wiring.jpg)
+![Wiring](images/CrashAvoidancePart4Wiring.png)
 
 ### Code
 [CrashAvoidanceFourCode](raspberry-pi/Crash_Avoidance_Part_4.py)
