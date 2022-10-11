@@ -220,6 +220,25 @@ Understanding the math behind using the OLED screens and the function to graph t
 
 &nbsp;
 
+## Morse_Code_Part_1
+
+### Assignment Description
+
+
+### Evidence 
+![Gif](images/Morse_Code_Part_1.gif)
+
+### Wiring
+![Wiring](images/Wiring.png)
+
+### Code
+[Morse_Code_Part_1](raspberry-pi/Morse_Code_Part_1.py)
+
+### Reflection
+
+
+&nbsp;
+
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
