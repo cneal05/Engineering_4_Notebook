@@ -10,7 +10,11 @@
 * [Crash_Avoidance_Part_1](#Crash_Avoidance_Part_1)
 * [Crash_Avoidance_Part_2](#Crash_Avoidance_Part_2)
 * [Crash_Avoidance_Part_3](#Crash_Avoidance_Part_3)
+* [Crash_Avoidance_Part_4](#Crash_Avoidance_Part_4)
 * [Landing_Area_Part_1](#Landing_Area_Part_1)
+* [Landing_Area_Part_2](#Landing_Area_Part_2)
+* [Morse_Code_Part_1](#Morse_Code_Part_1)
+* [Morse_Code_Part_2](#Morse_Code_Part_2)
 * [Raspberry_Pi_Assignment_Template](#Raspberry_Pi_Assignment_Template)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
@@ -164,6 +168,25 @@ Learning how to use the OLED screen and how to use to two i2cs at once was a bit
 
 &nbsp;
 
+## Crash_Avoidance_Part_4
+
+### Assignment Description
+the module should NOT show a warning light if the device is more than 3 meters above its starting point.
+
+### Evidence 
+![Name](images/CrashAvoidancePart4gif.gif)
+
+### Wiring
+![Wiring](images/CrashAvoidancePart4Wiring.png)
+
+### Code
+[CrashAvoidanceFourCode](raspberry-pi/Crash_Avoidance_Part_4.py)
+
+### Reflection
+Learning how to use the altimeter, something that we have not yet used yet in this class was somewhat of a difficulty.
+
+&nbsp;
+
 ## Landing_Area_Part_1
 
 ### Assignment Description
@@ -177,6 +200,44 @@ The code must ask for the user to input a set of three coordinates in (x,y) form
 
 ### Reflection
 This assginment was the most code heavy assignment that we have done, but after understanding the floats, how to define a functions, and the try and except function this assignment was very simple.
+
+&nbsp;
+
+## Landing_Area_Part_2
+
+### Assignment Description
+Landing Area Part 1 with the added onboard OLED screen must plot each triangle on a graph relative to the base location.
+
+### Evidence 
+![GIF](images/Landing_Area_Part_2.gif.gif)
+
+### Wiring
+![Wiring](images/LandingAreaPart2Wiring.png)
+
+### Code
+[Landing_Area_Part_2](raspberry-pi/Landing_Area_Part_2.py)
+
+### Reflection
+Understanding the math behind using the OLED screens and the function to graph the triangles or lines for the x and y lines.
+
+&nbsp;
+
+## Morse_Code_Part_1
+
+### Assignment Description
+
+
+### Evidence 
+![Gif](images/MorseCodePart1gif.gif)
+
+### Wiring
+![Wiring](images/Wiring.png)
+
+### Code
+[Morse_Code_Part_1](raspberry-pi/Morse_Code_Part_1.py)
+
+### Reflection
+
 
 &nbsp;
 
@@ -198,6 +259,7 @@ This assginment was the most code heavy assignment that we have done, but after 
 
 
 &nbsp;
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
