@@ -13,6 +13,8 @@
 * [Crash_Avoidance_Part_4](#Crash_Avoidance_Part_4)
 * [Landing_Area_Part_1](#Landing_Area_Part_1)
 * [Landing_Area_Part_2](#Landing_Area_Part_2)
+* [Morse_Code_Part_1](#Morse_Code_Part_1)
+* [Morse_Code_Part_2](#Morse_Code_Part_2)
 * [Raspberry_Pi_Assignment_Template](#Raspberry_Pi_Assignment_Template)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
@@ -226,7 +228,7 @@ Understanding the math behind using the OLED screens and the function to graph t
 
 
 ### Evidence 
-![Gif](images/Morse_Code_Part_1.gif)
+![Gif](images/Morse_Code_Part_1gif.gif)
 
 ### Wiring
 ![Wiring](images/Wiring.png)
