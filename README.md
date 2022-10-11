@@ -234,7 +234,7 @@ Your script must accept text input by the user If the user types “-q”, your 
 [Morse_Code_Part_1](raspberry-pi/Morse_Code_Part_1.py)
 
 ### Reflection
-
+After figuring out how dictionaries work and how to call specific words in the dictionary, the assignment was a simple coding assignment.
 
 &nbsp;
 
@@ -250,7 +250,7 @@ Morse Code Part 1 as well as the script must flash an LED to transmit the morse 
 [Morse_Code_Part_2](raspberry-pi/Morse_Code_Part_2.py)
 
 ### Reflection
-After figuring out how dictionaries work and how to call specific words in the dictionary, the assignment was a simple coding assignment.
+
 
 &nbsp;
 
