@@ -225,19 +225,32 @@ Understanding the math behind using the OLED screens and the function to graph t
 ## Morse_Code_Part_1
 
 ### Assignment Description
-
+Your script must accept text input by the user If the user types “-q”, your script must exit If the user types anything else, your script must translate the text to morse code dots and dashes, and print those to the monitor. The printed text must use a space to show breaks between letters, and a slash to show breaks between words
 
 ### Evidence 
 ![Gif](images/MorseCodePart1gif.gif)
-
-### Wiring
-![Wiring](images/Wiring.png)
 
 ### Code
 [Morse_Code_Part_1](raspberry-pi/Morse_Code_Part_1.py)
 
 ### Reflection
 
+
+&nbsp;
+
+## Morse_Code_Part_2
+
+### Assignment Description
+Morse Code Part 1 as well as the script must flash an LED to transmit the morse code message using the timing sequence shown below
+
+### Evidence 
+![Gif](images/MorseCodePart2gif.gif)
+
+### Code
+[Morse_Code_Part_2](raspberry-pi/Morse_Code_Part_2.py)
+
+### Reflection
+After figuring out how dictionaries work and how to call specific words in the dictionary, the assignment was a simple coding assignment.
 
 &nbsp;
 
