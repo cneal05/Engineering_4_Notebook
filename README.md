@@ -228,7 +228,7 @@ Understanding the math behind using the OLED screens and the function to graph t
 
 
 ### Evidence 
-![Gif](images/Morse_Code_Part_1gif.gif)
+![Gif](images/MorseCodePart1gif.gif)
 
 ### Wiring
 ![Wiring](images/Wiring.png)
