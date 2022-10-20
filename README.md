@@ -250,7 +250,7 @@ Morse Code Part 1 as well as the script must flash an LED to transmit the morse 
 [Morse_Code_Part_2](raspberry-pi/Morse_Code_Part_2.py)
 
 ### Reflection
-
+During this assignment I chose to use a yellow LED because those LEDS arnt usually used. I began having trouble with the assignment, but I wa spretty sure that the code was correct but when it got to a dash, the LED would do another dot as well. After a lot and a lot of trial and error, Mr.Miller and I figured outthat the yellow led was the problem all along, the yellow LEDS we had bought were blinky LEDs and when they had power would constantly blink no matter if you gave them any code. After finding another LED it worked.
 
 &nbsp;
 
@@ -269,7 +269,7 @@ Morse Code Part 1 as well as the script must flash an LED to transmit the morse 
 [Name](raspberry-pi/CodeName.py)
 
 ### Reflection
-DUring this assignment I chose to use a yellow LED because those LEDS arnt usually used. I began having trouble with the assignment, but I wa spretty sure that the code was correct but when it got to a dash, the LED would do another dot as well. After a lot and a lot of trial and error, Mr.Miller and I figured outthat the yellow led was the problem all along, the yellow LEDS we had bought were blinky LEDs and when they had power would constantly blink no matter if you gave them any code. After finding another LED it worked.
+
 
 &nbsp;
 
