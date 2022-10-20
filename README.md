@@ -246,6 +246,9 @@ Morse Code Part 1 as well as the script must flash an LED to transmit the morse 
 ### Evidence 
 ![Gif](images/MorseCodePart2gif.gif)
 
+### Wiring
+![Wiring](images/MorseCodePart2Wiring.png)
+
 ### Code
 [Morse_Code_Part_2](raspberry-pi/Morse_Code_Part_2.py)
 
