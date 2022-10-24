@@ -105,7 +105,7 @@ Actuate a 180 degree servo on liftoff to simulate the launch tower disconnecting
 
 ### Reflection
 
-This assignment was really just me remembering all of the setup that I need for a servo to work and then after that it was very simple.
+This assignment was really just me remembering all of the setup that I need for a servo to work. That setup required me to remember how to define the servo with all of the right wiring of which of the three wires connected to the servo does what. After remembering how to set up a servo I had to set it up so that when the for loop of counting down the servo would turn acting like the launch tower allowing the rocket to lift off.  
 
 &nbsp;
 
