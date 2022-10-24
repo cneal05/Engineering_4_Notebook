@@ -35,7 +35,7 @@ Countdown from 10 seconds to 0 (liftoff). Print that countdown to the serial mon
 
 ### Reflection
 
-To do this assignment I had to remember how to at first code again, but also how to code in circuit python instead of coding like I am coding Arduino, or java.
+To do this assignment I had to first remember how to code again, but also how to code in circuit python instead of coding like I am coding Arduino, or java. Remembering how to code was the easy part, because the process had already been put in my mind but I just needed to remember. The part that was difficult for me was remembering circuit python code, because last year after we stopped with the circuit python assignments I did not do any code after that point, allowing me to forget it for an entire year. Where in Computer science we were learning java and that was what was freshest in my mind.
 
 &nbsp;
 
@@ -43,7 +43,7 @@ To do this assignment I had to remember how to at first code again, but also how
 
 ### Assignment Description
 
-Blink a red light each second of the countdown, and turn on a green LED to signify liftoff.
+Blink a red light each second of the countdown, and turn on a green LED to signify liftoff. 
 
 ### Evidence
 
@@ -58,7 +58,7 @@ Blink a red light each second of the countdown, and turn on a green LED to signi
 
 ### Reflection
 
-This assignment was quite simple as I just combined the two assignments that I already had to do this year.
+This assignment was quite simple as I just combined the two assignments that I already had to do this year. I had to have both leds defined seperatly at the top of my code. With those two leds one would continuously blink for each second while one would blink at the very end when that 10 second timer ran out.
 
 &nbsp;
 
@@ -82,7 +82,7 @@ Include a physical button that starts the countdown.
 
 ### Reflection
 
-In this assignment I fully realized that I should probably have a "while True:" before all of my code that runs actions. without that it will go through my code once and be done, where if I am using a if statment it wont give me the chance to input the value that I want, like pressing a button, before it ends the code.
+In this assignment I fully realized that I should probably have a "while True:" before all of my code that runs actions. Without that it will go through my code once and be done. Where if I am using a if statment it wont give me the chance to input the value that I want, like pressing a button, before it ends the code.
 
 &nbsp;
 
@@ -125,7 +125,7 @@ The module must have an accelerometer that continuously reports x, y, and z acce
 [CrashAvoidanceOneCode](raspberry-pi/Crash_Avoidance_Part_1.py)
 
 ### Reflection
-Learning how to use and make the Accelerometer work was a bit of a hiccup but now after understanding how to set it up, the assignment was quite simple.
+Learning how to use and make the Accelerometer work was a bit of a hiccup but now after understanding how to set it up, the assignment was quite simple. what I had to do to figure out the acceleremoter was understanding sda scl pins and making sure I had that defined at the beginning of my code. After setting up the sda and scl I had to set up the i2c and then printing the mpu.acceleration in a print in thr while(True):
 
 &nbsp;
 
@@ -145,7 +145,7 @@ The module must be powered by a mobile power source.
 [CrashAvoidanceTwoCode](raspberry-pi/Crash_Avoidance_Part_2.py)
 
 ### Reflection
-Learning how to use the PowerBoost 500C was actually pretty simple to understand, and the Tilt sensor part of this assignment was just using a if statement on the assignment before making it pretty simple to complete.
+Learning how to use the PowerBoost 500C was actually pretty simple to understand. The Tilt sensor part of this assignment was just using a if statement on the assignment before making it pretty simple to complete. All I had to do was set up an if statement that would check if any of the values were to go over 9.8 or -9.8 other than the last value because that one should always be 9.8 if it right side up.
 
 &nbsp;
 
@@ -164,7 +164,7 @@ The module must have an onboard screen that prints x, y, and z angular velocity 
 [CrashAvoidanceThreeCode](raspberry-pi/Crash_Avoidance_Part_3.py)
 
 ### Reflection
-Learning how to use the OLED screen and how to use to two i2cs at once was a bit tough, but after understanding the code that is needed, it was realy quite simple.
+Learning how to use the OLED screen and how to use to two i2cs at once was a bit tough. What I had to do was set up a certain area on my breadboard that would make it so I could hook up the accelerometer and the OLED screen at the same time. After that I had to use the i2c address test to find the i2c addresses of both the OLED and the accelerometer and then define each with their respective address.
 
 &nbsp;
 
@@ -183,7 +183,7 @@ the module should NOT show a warning light if the device is more than 3 meters a
 [CrashAvoidanceFourCode](raspberry-pi/Crash_Avoidance_Part_4.py)
 
 ### Reflection
-Learning how to use the altimeter, something that we have not yet used yet in this class was somewhat of a difficulty.
+Learning how to use the altimeter, something that we have not yet used yet in this class was somewhat of a difficulty. After setting up the altimeter I had to test the altimeter by raising the Pico up to a certain height but the wire connecting the pico to the computer was not long enough so I needed a extrenal power source. After hooking up the power source I could upload the code to the pico and go and walk upstairs.
 
 &nbsp;
 
@@ -199,7 +199,7 @@ The code must ask for the user to input a set of three coordinates in (x,y) form
 [Landing_Area_Part_1](raspberry-pi/Landing_Area_Part_1.py)
 
 ### Reflection
-This assginment was the most code heavy assignment that we have done, but after understanding the floats, how to define a functions, and the try and except function this assignment was very simple.
+This assginment was the most code heavy assignment that we have done. The main idea for this assignment was to understand floats, how to define a functions, and the try and except function. After understanding those I remembered what I was very used to in my CS class and asking a question and taking it as an input was very easy to complete.
 
 &nbsp;
 
@@ -218,7 +218,7 @@ Landing Area Part 1 with the added onboard OLED screen must plot each triangle o
 [Landing_Area_Part_2](raspberry-pi/Landing_Area_Part_2.py)
 
 ### Reflection
-Understanding the math behind using the OLED screens and the function to graph the triangles or lines for the x and y lines.
+Understanding the math behind using the OLED screens and the function to graph the triangles or lines for the x and y lines was a major part of this assignment. In this assignment I needed to define the variables a lot of times to beable to use them in the triangle function and be able to put the points into the function to calculate the area of the triangle as well.
 
 &nbsp;
 
@@ -234,7 +234,7 @@ Your script must accept text input by the user If the user types “-q”, your 
 [Morse_Code_Part_1](raspberry-pi/Morse_Code_Part_1.py)
 
 ### Reflection
-After figuring out how dictionaries work and how to call specific words in the dictionary, the assignment was a simple coding assignment.
+How dictionaries work and how to call specific words in the dictionary was very important in this assignment. what I need to do after I understood that was to split the word into each letter and run each letter through a for loop, turning each letter into dots and dashes. Then I would have to complete the assignment by combining the dots and dashes together so that it would be turned into a single string and output all of it at once.
 
 &nbsp;
 
