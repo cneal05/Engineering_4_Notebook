@@ -6,7 +6,7 @@ def calculate(x1,y1,x2,y2,x3,y3):
     areaF = (area1 + area2 + area3)/2
     return areaF
 
-hile True:
+while True:
     print("Enter the first coordinate in format x,y:")
     answer1 = input()
     a1List = answer1.split(",")
@@ -17,12 +17,14 @@ hile True:
     answer3 = input()
     a3List = answer3.split(",")
     try:
+        #sets each of the given values into a variable allowing it to be used in the area function below
         x1 = float(a1List[0])
         x2 = float(a2List[0])
         x3 = float(a3List[0])
         y1 = float(a1List[1])
         y2 = float(a2List[1])
         y3 = float(a3List[1])
+        #the area function
         area = calculate(x1,y1,x2,y2,x3,y3)
         areafinal = abs(area)
         print(f"The area of the triangle with vertices ({x1},{y1}), ({x2},{y2}), ({x3},{y3}) is {areafinal} square km")
