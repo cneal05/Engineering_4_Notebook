@@ -27,6 +27,7 @@ while True:
         final = ""
         for letter in message:
             letter = letter.upper()
+            #runs through the message and changes each letter to uppercase
             letter = MORSE_CODE[letter]
             final = f"{final + letter} "
         print(final)

@@ -6,6 +6,7 @@ import time
 led = digitalio.DigitalInOut(board.GP20)
 led.direction = digitalio.Direction.OUTPUT
 
+#the defining of the variables that we use for the time of how long the dots and dashes are.
 modifier = 0.25
 dot_time = 1*modifier
 dash_time = 3*modifier
@@ -40,10 +41,11 @@ while True:
         final = ""
         for letter in message:
             letter = letter.upper()
+            #runs through the message and changes each letter to uppercase
             letter = MORSE_CODE[letter]
             final = f"{final + letter} "
         print(final)
-        for character in message:
+        for character in final:
             if character == ".":
                 led.value = True
                 time.sleep(dot_time)
@@ -53,10 +55,7 @@ while True:
                 time.sleep(dash_time)
                 led.value = False
             if character == " ":
-                led.value = True
                 time.sleep(between_letters)
-                led.value = False
             if character == "/":
-                led.value = True
                 time.sleep(between_words)
-                led.value = False
+            time.sleep(between_taps)

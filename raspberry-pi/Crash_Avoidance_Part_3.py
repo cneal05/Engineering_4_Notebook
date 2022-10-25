@@ -9,7 +9,7 @@ import board
 import time
 import digitalio
 displayio.release_displays()
-
+#assigns the scl to GP6 and assigns sda to GP7 on the pico board
 sda_pin = board.GP6
 scl_pin = board.GP7
 i2c = busio.I2C(scl_pin, sda_pin)
@@ -38,8 +38,8 @@ while True:
         text_area = label.Label(terminalio.FONT, text=title, color=0xFFFF00, x=5, y=55)
         splash.append(text_area)   
         display.show(splash)
+        #checks if the x and y values are above 9.8 or below -9.8
         if mpu.acceleration[0] > 9 or  mpu.acceleration[0] < -9 or mpu.acceleration[1] > 9 or  mpu.acceleration[1] < -9: 
-            #print("SPIN")
             led.value = True
         time.sleep(1)
         led.value = False

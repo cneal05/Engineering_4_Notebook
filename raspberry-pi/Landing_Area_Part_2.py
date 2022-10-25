@@ -34,18 +34,21 @@ while True:
     answer3 = input()
     a3List = answer3.split(",")
     try:
+        #sets each of the given values into a variable allowing it to be used in the area function below
         x1 = float(a1List[0])
         x2 = float(a2List[0])
         x3 = float(a3List[0])
         y1 = float(a1List[1])
         y2 = float(a2List[1])
         y3 = float(a3List[1])
+        #the area function
         area = calculate(x1,y1,x2,y2,x3,y3)
         areafinal = abs(area)
         print(f"The area of the triangle with vertices ({x1},{y1}), ({x2},{y2}), ({x3},{y3}) is {areafinal} square km")
     except:
         print("wrong format, please enter coordinates in the correct formatting")
-       
+
+    #below are the functions defining the graph on the oled screen and displaying the triangle so that you can see it.   
     splash = displayio.Group()
     linex1 = 64
     liney1 = 0
