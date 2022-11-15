@@ -340,7 +340,7 @@ Assemble the entire project putting what Student A and what Student B did, toget
 
 ### Reflection
 
-The assembly itself was pretty straightforward as we had to follow along with the directions we were given. At one point we were told to insert sock head screws directly into the place we wanted them which we had to unhide all mate connectors and click on each place we wanted for a screw to go to. Another thing that the directions told us was going to happen was the key might not align correctly when you were mating it into the copter, and you have to section view so that you can actually see where you are mating. But our key aligned perfectly and we had completed the assembly.
+The assembly itself was pretty straightforward as we had to follow along with the directions we were given. At one point we were told to insert socket head screws directly into the place we wanted them which we had to unhide all mate connectors and click on each place we wanted for a screw to go to. Another thing that the directions told us was going to happen was the key might not align correctly when you were mating it into the copter, and you have to section view so that you can actually see where you are mating. But our key aligned perfectly and we had completed the assembly.
 
 &nbsp;
 
