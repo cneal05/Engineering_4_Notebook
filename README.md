@@ -324,7 +324,7 @@ Redesigning for our beam was making it so that there was just a bit more materia
 
 &nbsp;
 
-## Collabaration_Part_4.3
+## Collaboration_Part_4.3
 
 ### Assignment Description
 
