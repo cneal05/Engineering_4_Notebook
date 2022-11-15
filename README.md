@@ -15,6 +15,9 @@
 * [Landing_Area_Part_2](#Landing_Area_Part_2)
 * [Morse_Code_Part_1](#Morse_Code_Part_1)
 * [Morse_Code_Part_2](#Morse_Code_Part_2)
+* [FEA_Part_1](#FEA_Part_1)
+* [FEA_Part_2](#FEA_Part_2)
+* [FEA_Part_3](#FEA_Part_3)
 * [Raspberry_Pi_Assignment_Template](#Raspberry_Pi_Assignment_Template)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
@@ -269,7 +272,7 @@ You will design a 3D printed beam in Onshape with the goal of maximizing the wei
 
 ### Part Image
 
-![First_Design](images/FEA_Part_1.png)
+![First_Design](images/FEA_Part_1_image.png)
 
 ### Reflection
 
