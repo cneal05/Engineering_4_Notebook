@@ -257,6 +257,67 @@ During this assignment I chose to use a yellow LED because those LEDS arnt usual
 
 &nbsp;
 
+## FEA_Part_1
+
+### Assignment Description
+
+You will design a 3D printed beam in Onshape with the goal of maximizing the weight the beam can hold before failure. The beam fails if either of the following two conditions are met: The beam break, or the beam bends more than 35 mm
+
+### Part Link 
+
+[Onshape_Link](https://cvilleschools.onshape.com/documents/c663cf5807934a673b2a2546/w/d75e1e7fb8e51e72b9a24f6a/e/3770c430d303f1af130ad922?renderMode=0&uiState=6373d96c55218e321ba885ca) 
+
+### Part Image
+
+![First_Design](images/FEA_Part_1.png)
+
+### Reflection
+
+Our first beam was pretty bad as it was too wide and not tall enough. Then after we swapped to have a vertical beam it made it look more structurally sound. By that I mean that the beam looks as if it would be able to hold more weight while also being a lot lighter. And with the finished project we landed at 12.98 grams making it legal for the assignment.
+
+&nbsp;
+
+## Onshape_Assignment_Template
+
+### Assignment Description
+
+Run one static finite element analysis on your beam to determine what areas need to be improved.
+
+### Part Link 
+
+[FEA_Part_2](https://cvilleschools.onshape.com/documents/c663cf5807934a673b2a2546/w/d75e1e7fb8e51e72b9a24f6a/e/3770c430d303f1af130ad922?renderMode=0&uiState=6373d96c55218e321ba885ca) 
+
+### Part Image
+
+![Simscale_Image](images/FEA_Part_2_image.png)
+
+### Reflection
+
+With this first test it allowed us to see that the place that had the most amount of stress was the top part of the beam that was closest to the fulcrum. I then thought to maybe cut away some of the material there and then add a chamfer, or a filet. Neither of those ideas seemed to improve it in anyway, but I have come up with an idea of adding more material on top of that area.
+
+&nbsp;
+
+## FEA_Part_3
+
+### Assignment Description
+
+Use data from FEA simulations to improve the maximum weight the beam can hold before meeting one of the two failure conditions. 
+Remember, the two failure conditions are the beam breaking, or bending >=35 mm
+
+### Part Link 
+
+[FEA_Part_3](https://cvilleschools.onshape.com/documents/c663cf5807934a673b2a2546/w/d75e1e7fb8e51e72b9a24f6a/e/3770c430d303f1af130ad922?renderMode=0&uiState=6373d96c55218e321ba885ca) 
+
+### Part Image
+
+![Final_Redesign](images/FEA_Part_3_image.png)
+
+### Reflection
+
+Redesigning for our beam was making it so that there was just a bit more material where the simulation showed the most stress was going to be. After testing however, we cam across a problem that we had not thought of, that being side bend. When we tested our piece started to bend off to the side meaning that it went past the displacement parameter and then didn't hold as much as it probably could have if it stayed up-right. If we were to make the bottom of the beam slightly wider so that it would be less likely to bend over to one side.
+
+&nbsp;
+
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
