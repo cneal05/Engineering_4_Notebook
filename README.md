@@ -321,6 +321,26 @@ Redesigning for our beam was making it so that there was just a bit more materia
 
 &nbsp;
 
+## Collabaration 4.3
+
+### Assignment Description
+
+Assemble the entire project putting what Student A and what Student B did, together.
+
+### Part Link 
+
+[Collabaration_Document](https://cvilleschools.onshape.com/documents/bd4a30d821e22581a9b814bb/w/3924901670c70451ae4c5c93/e/1d91be7892fa945f67fc8989?renderMode=0&uiState=6373deb6d9e80025a2fb0af2)
+
+### Part Image
+
+![Full_Copter](Collaboration_Part_4.3_image.png)
+
+### Reflection
+
+The assembly itself was pretty straightforward as we had to follow along with the directions we were given. At one point we were told to insert sock head screws directly into the place we wanted them which we had to unhide all mate connectors and click on each place we wanted for a screw to go to. Another thing that the directions told us was going to happen was the key might not align correctly when you were mating it into the copter, and you have to section view so that you can actually see where you are mating. But our key aligned perfectly and we had completed the assembly.
+
+&nbsp;
+
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
