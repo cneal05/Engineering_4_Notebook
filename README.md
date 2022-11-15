@@ -280,7 +280,7 @@ Our first beam was pretty bad as it was too wide and not tall enough. Then after
 
 &nbsp;
 
-## Onshape_Assignment_Template
+## FEA_Part_2
 
 ### Assignment Description
 
