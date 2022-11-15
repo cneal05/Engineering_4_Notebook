@@ -18,9 +18,9 @@
 * [FEA_Part_1](#FEA_Part_1)
 * [FEA_Part_2](#FEA_Part_2)
 * [FEA_Part_3](#FEA_Part_3)
-* [Collaboration_Part_4.1](#Collaboration_Part_4.1)
-* [Collaboration_Part_4.2](#Collaboration_Part_4.2)
-* [Collaboration_Part_4.3](#Collaboration_Part_4.3)
+* [Collaboration_Part_4-1](#Collaboration_Part_4-1)
+* [Collaboration_Part_4-2](#Collaboration_Part_4-2)
+* [Collaboration_Part_4-3](#Collaboration_Part_4-3)
 * [Raspberry_Pi_Assignment_Template](#Raspberry_Pi_Assignment_Template)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
@@ -324,7 +324,7 @@ Redesigning for our beam was making it so that there was just a bit more materia
 
 &nbsp;
 
-## Collaboration_Part_4.3
+## Collaboration_Part_4-3
 
 ### Assignment Description
 
