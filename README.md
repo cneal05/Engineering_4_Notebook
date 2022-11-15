@@ -336,7 +336,7 @@ Assemble the entire project putting what Student A and what Student B did, toget
 
 ### Part Image
 
-![Full_Copter](Collaboration_Part_4-3_image.png)
+![Full_Copter](images/Collaboration_Part_4-3_image.png)
 
 ### Reflection
 
