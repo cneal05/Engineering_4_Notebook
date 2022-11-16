@@ -18,9 +18,9 @@
 * [FEA_Part_1](#FEA_Part_1)
 * [FEA_Part_2](#FEA_Part_2)
 * [FEA_Part_3](#FEA_Part_3)
-* [Collaboration_Part_4-1](#Collaboration_Part_4-1)
-* [Collaboration_Part_4-2](#Collaboration_Part_4-2)
-* [Collaboration_Part_4-3](#Collaboration_Part_4-3)
+* [Collaboration_Part_4-1_Spinner](#Collaboration_Part_4-1_Spinner)
+* [Collaboration_Part_4-2_Key](#Collaboration_Part_4-2_Key)
+* [Collaboration_Part_4-3_Assembly](#Collaboration_Part_4-3_Assembly)
 * [Raspberry_Pi_Assignment_Template](#Raspberry_Pi_Assignment_Template)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
@@ -324,7 +324,47 @@ Redesigning for our beam was making it so that there was just a bit more materia
 
 &nbsp;
 
-## Collaboration_Part_4-3
+## Collaboration_Part_4-1_Spinner
+
+### Assignment Description
+
+For this assignment we have to construct an entire spinner in onshape with collaboration. For the collaboration aspect my partner was [Lucy](https://github.com/lgray52). For 4-1 we had to construct a spinner and a ring. I as student B had to construct the spinner
+
+### Part Link
+
+[OnShape Document](https://cvilleschools.onshape.com/documents/bd4a30d821e22581a9b814bb/w/6d6188e6fc53e9f40518c1fa/e/1d91be7892fa945f67fc8989?renderMode=0&uiState=6375276834abbb53458f1491)
+
+### Part Image
+
+![Full_Copter](images/Collaboration_Part_4-1_image.png)
+
+### Reflection
+
+The construction of the spinner was quite a bit different from the ring. with the spinner I used a few tools I haven't used before like a helix, and using sweeps. Where I am very used to using lofts instead of sweeps, but they were pretty easy to follow. 
+
+&nbsp;
+
+## Collaboration_Part_4-2_Key
+
+### Assignment Description
+
+For the 4-2 I had to construct a Key for the spinner which is a "Rip-Cord" like thing that would grab on to the gear in the spinner. Lucy and I switched for tjhis assignment, so I am Student a on this assignment. 
+
+### Part Link
+
+[OnShape Document](https://cvilleschools.onshape.com/documents/bd4a30d821e22581a9b814bb/w/3924901670c70451ae4c5c93/e/518d02f43562175bce0a04ea?renderMode=0&uiState=635817af8760e45d1e2e6835)
+
+### Part Image
+
+![Full_Copter](images/Collaboration_Part_4-2_image.png)
+
+### Reflection
+
+The only real tough part about making the key was gettign the right measurement for how far apart each of the teeth have to be so that it can fit in the gear correctly. But the measurements were given to us in the directions and there was no math that I had to do myself, that value was equal to (7.5*PI/9). The final thing I had to do with the key was setting up a mate connector so that it could properly connect to the right place in the assembly. All I had to do for that was select the correct edge on the key and attach a mate connector there.
+
+&nbsp;
+
+## Collaboration_Part_4-3_Assembly
 
 ### Assignment Description
 
